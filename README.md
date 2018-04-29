@@ -1,5 +1,5 @@
-# ACTION RPG ONLINE
-<b>This is a ARPG ONLINE made with Unity and C#</b><br/>
+# MINESWEEPER CLONE
+<b>This is a MINESWEEPER made with Unity and C#</b><br/>
 [![Banner](http://img.youtube.com/vi/b0bl082fWik/0.jpg)](http://www.youtube.com/watch?v=b0bl082fWik)
 
 ## WHY (MOTIVATION)
